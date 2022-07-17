@@ -1,0 +1,11 @@
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\bin\Debug\LockVirus.exe.config
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\bin\Debug\LockVirus.exe
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\bin\Debug\LockVirus.pdb
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.csproj.AssemblyReference.cache
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.Form1.resources
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.Properties.Resources.resources
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.csproj.GenerateResource.cache
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.csproj.CoreCompileInputs.cache
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.exe
+C:\Users\MAXIM\source\repos\LockVirus\LockVirus\obj\Debug\LockVirus.pdb
